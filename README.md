@@ -1,1 +1,1 @@
-# upplinko-react-site.
+# upplinko-react-site
